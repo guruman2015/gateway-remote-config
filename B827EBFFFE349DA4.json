@@ -1,0 +1,37 @@
+{
+
+  "gateway_conf": {
+
+    "gateway_ID": "B827EBFFFE349DA4",
+
+    "servers": [
+
+      {
+
+        "server_address": "router.cn.thethings.network",
+
+        "serv_port_up": 1700,
+
+        "serv_port_down": 1700,
+
+        "serv_enabled": true
+
+      }
+
+    ],
+
+    "fake_gps": true,
+
+    "ref_latitude": 53.1513,
+
+    "ref_longitude": 8.2173,
+
+    "ref_altitude": 40,
+
+    "contact_email": "zzuzpb@163.com",
+
+    "description": "-"
+
+  }
+
+}
